@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://awsclouds3.github.io/amazon/sitemap.xml
